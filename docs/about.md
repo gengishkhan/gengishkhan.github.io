@@ -10,4 +10,6 @@ As of Dec 2023, my knowledge about machine learning and AI are still fresh. I ju
 
 By creating this blogs, I hope it can help me to track my progress and also to share and collaborate with all machine learner and data scientist. 
 
+Have fun!
+
  
