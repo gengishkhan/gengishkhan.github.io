@@ -1,6 +1,6 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /URL-PATH
+permalink: /about
 
 Hi, My name is Truong Cong Da
 In my last 15 years, I almost focus on Microsoft Dynamics AX products, but starting from 2016 started learning Python and spent some free time to learn pandas, numpy, use django template to develop a web application for personal use. 
