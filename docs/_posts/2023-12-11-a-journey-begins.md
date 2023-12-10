@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "POST-TITLE"
+title: "A journey to data and artifical intelligent"
 date: 2023-12-10 00:00:00 -0000
 categories: Machine-Learning CATEGORY-2
 ---
