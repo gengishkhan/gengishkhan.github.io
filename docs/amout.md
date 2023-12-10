@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+
 Hi, My name is Truong Cong Da
 In my last 15 years, I almost focus on Microsoft Dynamics AX products, but starting from 2016 started learning Python and spent some free time to learn pandas, numpy, use django template to develop a web application for personal use. 
 I don't know when I first touch Jupyter notebook but from that day and from the knowledge from every experiments it led me to data and machine learning. 
