@@ -2,13 +2,15 @@
 title: "About me"
 permalink: /about
 ---
-Hi, My name is Truong Cong Da.
-In last 15 years, I almost focused on Microsoft Dynamics AX products and ERP fields, but starting from 2016 I started learning Python , used django template to develop a web application for personal use. Sometimes I was curious about the data so I  spent some free time to learn pandas, numpy, matplotlib , seaborn  and used Jupyter notebook  to do some experiments with data that I have.  As Jobs once said ' You can't connect the dots forward, but you connect the dots backward'.
-I don't know exactly the roadmap or why I did so  and what I did was following the advices from the books, watch educational videos on Youtube and try to gain knowledge from it.  But I think somehow these works led me to data and machine learning and this is the field that I am more interested about.
+Hello, I'm Truong Cong Da.
 
-As of Dec 2023, my knowledge about machine learning and AI are still fresh so  I decided to left my full time job  and  spent last 2 months to study about machine learning and AI application development process. My journey in this field is just a beginning. There are much more to learn and I will keep going. By creating this blogs, I hope it can help me to track my study progress and also to share and collaborate with all machine learners and data scientist. 
+For the past 15 years, my focus has predominantly been on Microsoft Dynamics AX products and ERP fields. However, in 2016, I embarked on a new journey by delving into Python. Using Django templates, I developed a web application for personal use. Intrigued by data, I dedicated free time to learning pandas, numpy, matplotlib, seaborn, and conducted experiments using Jupyter notebooks. Reflecting on the words of Steve Jobs, "You can't connect the dots forward, but you can connect them backward," I found that my explorations, though seemingly unrelated, led me towards the realms of data and machine learning.
 
-For those who have the same interest, please feel free to contact me at:
+While I don't have a clear roadmap for machine learning and AI, I've followed advice from books, watched educational videos on YouTube, and absorbed knowledge along the way. This unplanned journey has ignited a keen interest in data and machine learning.
+
+As of December 2023, my understanding of machine learning and AI is still in its early stages. In pursuit of deeper knowledge, I made the decision to leave my full-time job and spent the last two months immersing myself in the study of machine learning and AI application development. This marks only the beginning of my journey in this fascinating field, with much more to learn and explore.
+
+Through this blog, I aim to document my study progress, and I welcome the opportunity to connect and collaborate with fellow machine learners and data scientists. For those sharing a similar interest, please feel free to contact me at:
 da.truong.it at gmail. com.
 
 Have fun!
