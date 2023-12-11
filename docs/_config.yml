@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Data wanderer
-logo: /assets/img/logo.png
+logo: /assets/img/logo.jpeg
 description: A journal in data, machine learning and AI.
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
